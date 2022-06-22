@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.picture {
+  width: 100px;
+  border-radius: 15%;
+}
+
+table {
+
+  padding-left: 10px;
+  padding-top: 30px;
+  width: 1000px;
+  font-size: 18px;
+}
+
+button {
+  padding: 8px;
+  font-size: 18px;
+  background-color: aquamarine;
+  border-color: black;
+  letter-spacing: 1px;
+  font-weight: 600;
+  margin: 2px;
+}
